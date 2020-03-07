@@ -1,0 +1,8 @@
+Joane Pauline B. Lorenzo 
+BSIT-2A
+
+1. First, convert the ip address into binary.
+2. Second, after converting the ip address into binary, convert the mask into binary.
+3. Third, After writing it compare the mask and ip address thru bitwise or. If 1 | 1 = 1 else if 1 | 0=0.
+4. Fourth, After comparing, convert it into decimal.
+5. LAstly, Then get the subnet, min. ip. max. ip and broadcast id. 
